@@ -44,7 +44,7 @@ $matches = [
     <title>snack_1</title>
 </head>
 <body>
-    <h1>Score  Matches</h1>
+    <h2>Score  Matches</h2>
 
     <p>Game Played: <?php echo count($matches); ?></p>
 
